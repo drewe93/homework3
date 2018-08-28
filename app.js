@@ -146,6 +146,9 @@ const employeeList = [
       render("-----------");
     }
   }
+  // else if(userCommand.toLowerCase() ===""){
+    //additional command to go here
+  // }
   else{
     render('Not a valid command');
   }
